@@ -31,8 +31,7 @@ Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 ## Automated Device Enrollment
 - [Prepare an iPhone, iPad, or Apple TV manually in Apple Configurator 2](https://support.apple.com/en-gb/guide/apple-configurator-2/cad99bc2a859/mac)
 - [Three ways for schools to enroll iOS devices into management](https://www.jamf.com/blog/three-ways-to-get-ios-devices-enrolled-into-management/)
-- [Jamf Pro Administrator's Guide 10.32.0 ...  Enrollment of Mobile Devices
-](https://docs.jamf.com/jamf-pro/administrator-guide/Mobile_Device_PreStage_Enrollments.html)
+- [Mobile Device PreStage Enrollments](https://docs.jamf.com/jamf-pro/administrator-guide/Mobile_Device_PreStage_Enrollments.html)
 - [MDM Me Maybe: Device Enrollment Program Security](https://duo.com/labs/research/mdm-me-maybe)
 - [Prepare Shared iPad](https://support.apple.com/en-gb/guide/mdm/mdm71124b400/1/web/1)
 - [What are Managed Apple IDs in Apple Business Manager?](https://support.apple.com/en-gb/guide/apple-business-manager/tes78b477c81/1/web/1)
