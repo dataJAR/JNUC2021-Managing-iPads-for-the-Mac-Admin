@@ -44,3 +44,10 @@ Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 - [Use parental controls on your child's iPhone, iPad and iPod touch](https://support.apple.com/en-gb/HT201304)
 - [Using USB accessories with iOS 11.4.1 and later](https://support.apple.com/en-gb/HT208857)
 - [Use private Wi-Fi addresses in iOS 14, iPadOS 14 and watchOS 7](https://support.apple.com/en-gb/HT211227)
+- [Updating iOS on Devices with Single App Mode Enabled](https://docs.jamf.com/best-practice-workflows/jamf-pro/managing-ios-updates/Updating_iOS_on_Devices_with_Single_App_Mode_Enabled.html)
+- [Remote Commands for Mobile Devices](https://docs.jamf.com/jamf-pro/administrator-guide/Remote_Commands_for_Mobile_Devices.html)
+- [Updating iOS](https://docs.jamf.com/best-practice-workflows/jamf-pro/managing-ios-updates/Updating_iOS.html)
+
+## Additional Tips
+- [Use an iPhone, iPad or iPod touch connected to your Mac](https://support.apple.com/en-gb/guide/quicktime-player/qtp356b55534/10.5/mac/11.0#apd86177808b0da4)
+- [View log messages in Console on Mac](https://support.apple.com/en-gb/guide/console/cnsl1012/mac)
