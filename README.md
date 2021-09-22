@@ -42,4 +42,5 @@ Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 - [Smart Groups](https://docs.jamf.com/jamf-pro/administrator-guide/Smart_Groups.html)
 - [Delete built-in Apple apps on your iOS 12, iOS 13, iPadOS device or Apple Watch](https://support.apple.com/en-gb/HT208094)
 - [Use parental controls on your child's iPhone, iPad and iPod touch](https://support.apple.com/en-gb/HT201304)
+- [Use private Wi-Fi addresses in iOS 14, iPadOS 14 and watchOS 7](https://support.apple.com/en-gb/HT211227)
 
