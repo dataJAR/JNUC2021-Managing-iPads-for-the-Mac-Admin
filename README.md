@@ -2,7 +2,8 @@
 Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 
 ## Apple Deployment Programmes
-- [Review SCIM requirements for Apple School Manager](https://support.apple.com/en-gb/guide/apple-school-manager/apdd88331cd6/web)
+- [Introduction to federated authentication with Apple School Manager](https://support.apple.com/en-gb/guide/apple-school-manager/apdb19317543/web)
+- [Introduction to federated authentication with Apple Business Manager](https://support.apple.com/en-gb/guide/apple-business-manager/apdb19317543/web)
 - [Modern Deployment Workflows For Education](https://macmule.com/2019/05/27/modern-deployment-workflows-for-education/)
 - [SalamanderSoft Free Utilities](https://www.salamandersoft.co.uk/free-utilities/)
 - [Jamf Pro - Apple Education Support settings](https://docs.jamf.com/jamf-pro/administrator-guide/Apple_Education_Support_Settings.html)
@@ -16,7 +17,7 @@ Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 - [Jamf Self Service for iOS Branding Settings](https://docs.jamf.com/jamf-pro/administrator-guide/Jamf_Self_Service_for_iOS_Branding_Settings.html)
 - [App Request](https://docs.jamf.com/jamf-pro/administrator-guide/App_Request.html)
 
-## Applications
+## Application Deployment and Configuration
 - [Apps Purchased in Volume](https://docs.jamf.com/jamf-pro/administrator-guide/Apps_Purchased_in_Volume.html)
 - [Managed Apps](https://support.apple.com/en-gb/guide/deployment-reference-ios/iorf4d72eded/web)
 - [Deploying Pages, Keynote, and Numbers with Volume Purchasing](https://docs.jamf.com/jamf-now/documentation/Deploying_Pages_Keynote_and_Numbers_with_Volume_Purchasing.html)
@@ -26,3 +27,14 @@ Repo for links from the JNUC 2021 talk "Managing iPads, for the Mac Admin"
 - [AppConfig](https://www.appconfig.org/)
 - [AppConfig for iOS](https://www.appconfig.org/ios/)
 - [Manually Install Self Service with Volume Purchasing](https://docs.jamf.com/jamf-pro/administrator-guide/Jamf_Self_Service_for_iOS.html)
+
+## Automated Device Enrollment
+- [Prepare an iPhone, iPad, or Apple TV manually in Apple Configurator 2](https://support.apple.com/en-gb/guide/apple-configurator-2/cad99bc2a859/mac)
+- [Three ways for schools to enroll iOS devices into management](https://www.jamf.com/blog/three-ways-to-get-ios-devices-enrolled-into-management/)
+- [Jamf Pro Administrator's Guide 10.32.0 ...  Enrollment of Mobile Devices
+](https://docs.jamf.com/jamf-pro/administrator-guide/Mobile_Device_PreStage_Enrollments.html)
+- [MDM Me Maybe: Device Enrollment Program Security](https://duo.com/labs/research/mdm-me-maybe)
+- [What are Managed Apple IDs in Apple Business Manager?](https://support.apple.com/en-gb/guide/apple-business-manager/tes78b477c81/1/web/1)
+- [What are Managed Apple IDs in Apple School Manager?](https://support.apple.com/en-gb/guide/apple-school-manager/tes78b477c81/1/web/1)
+
+## Device Management Settings
